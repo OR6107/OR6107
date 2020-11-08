@@ -16,7 +16,7 @@ Hi, I'm [OR6107](https://OR6107.github.io).
 <code><a href="https://github.com/topics/latex"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></a></code>
 <code><a href="https://github.com/topics/tex"><img height="20" src="https://raw.githubusercontent.com/github/explore/66e4a32f59558ad7852fca3eee52b5838a5b3cc8/topics/tex/tex.png"></a></code>
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
 <a href="https://github.com/OR6107">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=OR6107&show_icons=true&count_private=true&include_all_commits=true" />
