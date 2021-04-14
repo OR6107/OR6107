@@ -4,6 +4,7 @@
 <code><a href="https://www.instagram.com/o_r6107/"><img height="20" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"></a></code>
 <code><a href="https://qiita.com/OR6107"><img height="20" src="https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico"></a></code>
 [![OR6107](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FOR6107)](https://atcoder.jp/users/OR6107)
+![](https://komarev.com/ghpvc/?username=OR6107)
 
 Hi, I'm [OR6107](https://OR6107.github.io).
 
